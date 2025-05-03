@@ -49,7 +49,6 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
 
 
 
-
 <h3>🪀 Heart Disease Risk Assessment</h3>
 <p>
   This module uses <strong>LightGBM & AI classifiers</strong> to assess heart disease risks based on patient history.
@@ -75,9 +74,6 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
   <li>✅ Provides fast, relevant, and fact-based healthcare responses.</li>
   <li>✅ Provides <strong>reliable AI-driven</strong> answers to health-related questions.</li>
 </ul>
-
-| ![Screenshot 1](utils/img7.png) | ![Screenshot 2](utils/img8.png) |
-|---------------------------------|---------------------------------|
 
 
 ---
