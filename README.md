@@ -35,6 +35,8 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
   <li>✅ Provides medical descriptions, precautions, medication suggestions, and diet recommendations**.</li>
 </ul>
 
+| ![Screenshot 1](utils/img1.png) | ![Screenshot 2](utils/img2.png) |
+|---------------------------------|---------------------------------|
 
 <h3>💊 AI-Powered Drug Recommendation</h3>
 <p>
@@ -47,6 +49,8 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
   <li>✅ Ensures safer and more effective drug prescriptions.</li>
 </ul>
 
+| ![Screenshot 1](utils/img3.png) | ![Screenshot 2](utils/img4.png) |
+|---------------------------------|---------------------------------|
 
 
 <h3>🪀 Heart Disease Risk Assessment</h3>
@@ -74,6 +78,9 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
   <li>✅ Provides fast, relevant, and fact-based healthcare responses.</li>
   <li>✅ Provides <strong>reliable AI-driven</strong> answers to health-related questions.</li>
 </ul>
+
+| ![Screenshot 1](utils/img7.png) | ![Screenshot 2](utils/img8.png) |
+|---------------------------------|---------------------------------|
 
 
 ---
